@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Farama-Foundation/Shimmy/commit/b3c5636ca7e5b0c2f3b20741d52e5d6845ad6c3e",
       "git:hexsha": "b3c5636ca7e5b0c2f3b20741d52e5d6845ad6c3e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T17:46:47.322738+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Farama-Foundation/Shimmy/commit/bd2e52a6e0616409f9b153158210b4ab85a9d1fc",
